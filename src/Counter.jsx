@@ -1,4 +1,4 @@
-import { useState } form 'react';
+/*import { useState } form 'react';
 
 export default function Counter() {
     const [count, setCount] = useState(0);
@@ -15,4 +15,4 @@ export default function Counter() {
         <><button></button>
         </div>
     )
-}
+}*/
